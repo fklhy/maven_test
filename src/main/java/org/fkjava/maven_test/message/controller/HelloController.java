@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
 	@RequestMapping("/hello")
 	public String hello(){
-		return "hello my frist spring boot";
+		return "hello my frist spring boot mysecond";
 	}
 	
 }
